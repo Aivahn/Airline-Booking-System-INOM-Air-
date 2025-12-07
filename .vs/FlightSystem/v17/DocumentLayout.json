@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aivah\\Desktop\\flight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formflightdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formflightdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formseat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formseat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formreceipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formreceipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formpayment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formpayment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formpayment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formpayment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formhome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formflightdirectory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formflightdirectory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formfillup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formfillup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formewallet.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formewallet.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formcontact.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formcontact.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formbook.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formbook.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|c:\\users\\aivah\\desktop\\flight\\formcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formbook.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formbook.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formflightdirectory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formflightdirectory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formcontact.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formcontact.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formcontact.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formcontact.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formseat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formseat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\form7.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:form7.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formflightdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formflightdetails.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formreceipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formreceipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formewallet.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formewallet.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|C:\\Users\\aivah\\Desktop\\flight\\formfillup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{18104D71-3FCB-4922-A13A-2A0D79A21D14}|FlightSystem.vbproj|solutionrelative:formfillup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormHome.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormHome.vb",
+              "RelativeDocumentMoniker": "FormHome.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormHome.vb [Design]",
+              "RelativeToolTip": "FormHome.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T06:38:36.38Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPayment.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormPayment.vb",
+              "RelativeDocumentMoniker": "FormPayment.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormPayment.vb [Design]",
+              "RelativeToolTip": "FormPayment.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T09:56:24.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPayment.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormPayment.vb",
+              "RelativeDocumentMoniker": "FormPayment.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormPayment.vb",
+              "RelativeToolTip": "FormPayment.vb",
+              "ViewState": "AgIAANoAAAAAAAAAAAAAAOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T16:07:23.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReceipt.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormReceipt.vb",
+              "RelativeDocumentMoniker": "FormReceipt.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormReceipt.vb",
+              "RelativeToolTip": "FormReceipt.vb",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T12:14:34.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSeat.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormSeat.vb",
+              "RelativeDocumentMoniker": "FormSeat.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormSeat.vb",
+              "RelativeToolTip": "FormSeat.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-29T10:39:33.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormFlightDetails.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormFlightDetails.vb",
+              "RelativeDocumentMoniker": "FormFlightDetails.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormFlightDetails.vb",
+              "RelativeToolTip": "FormFlightDetails.vb",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAQwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T14:43:46.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormFlightDirectory.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormFlightDirectory.vb",
+              "RelativeDocumentMoniker": "FormFlightDirectory.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormFlightDirectory.vb",
+              "RelativeToolTip": "FormFlightDirectory.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T02:29:08.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormFillUp.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormFillUp.vb",
+              "RelativeDocumentMoniker": "FormFillUp.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormFillUp.vb",
+              "RelativeToolTip": "FormFillUp.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T13:52:01.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormEWallet.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormEWallet.vb",
+              "RelativeDocumentMoniker": "FormEWallet.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormEWallet.vb",
+              "RelativeToolTip": "FormEWallet.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T05:37:54.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormContact.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormContact.vb",
+              "RelativeDocumentMoniker": "FormContact.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormContact.vb",
+              "RelativeToolTip": "FormContact.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T05:53:09.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormBook.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormBook.vb",
+              "RelativeDocumentMoniker": "FormBook.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormBook.vb",
+              "RelativeToolTip": "FormBook.vb",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAzwB0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T13:51:44.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form7.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\Form7.vb",
+              "RelativeDocumentMoniker": "Form7.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\Form7.vb",
+              "RelativeToolTip": "Form7.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T05:46:19.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormCard.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormCard.vb",
+              "RelativeDocumentMoniker": "FormCard.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormCard.vb",
+              "RelativeToolTip": "FormCard.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T05:10:15.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormSeat.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormSeat.vb",
+              "RelativeDocumentMoniker": "FormSeat.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormSeat.vb [Design]",
+              "RelativeToolTip": "FormSeat.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T09:05:07.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormFlightDirectory.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormFlightDirectory.vb",
+              "RelativeDocumentMoniker": "FormFlightDirectory.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormFlightDirectory.vb [Design]",
+              "RelativeToolTip": "FormFlightDirectory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T02:26:06.324Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormCard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormCard.vb",
+              "RelativeDocumentMoniker": "FormCard.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormCard.vb [Design]",
+              "RelativeToolTip": "FormCard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T16:36:32.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormBook.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormBook.vb",
+              "RelativeDocumentMoniker": "FormBook.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormBook.vb [Design]",
+              "RelativeToolTip": "FormBook.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T02:35:43.14Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormContact.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormContact.vb",
+              "RelativeDocumentMoniker": "FormContact.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormContact.vb [Design]",
+              "RelativeToolTip": "FormContact.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T05:48:13.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormContact.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormContact.Designer.vb",
+              "RelativeDocumentMoniker": "FormContact.Designer.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormContact.Designer.vb",
+              "RelativeToolTip": "FormContact.Designer.vb",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T06:07:28.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form7.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\Form7.vb",
+              "RelativeDocumentMoniker": "Form7.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\Form7.vb [Design]",
+              "RelativeToolTip": "Form7.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-27T00:27:20.962Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form7.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\Form7.Designer.vb",
+              "RelativeDocumentMoniker": "Form7.Designer.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\Form7.Designer.vb",
+              "RelativeToolTip": "Form7.Designer.vb",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T06:00:44.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormFlightDetails.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormFlightDetails.vb",
+              "RelativeDocumentMoniker": "FormFlightDetails.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormFlightDetails.vb [Design]",
+              "RelativeToolTip": "FormFlightDetails.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T09:56:19.961Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormReceipt.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormReceipt.vb",
+              "RelativeDocumentMoniker": "FormReceipt.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormReceipt.vb [Design]",
+              "RelativeToolTip": "FormReceipt.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T12:14:27.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormFillUp.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormFillUp.vb",
+              "RelativeDocumentMoniker": "FormFillUp.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormFillUp.vb [Design]",
+              "RelativeToolTip": "FormFillUp.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T13:51:58.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormEWallet.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\aivah\\Desktop\\flight\\FormEWallet.vb",
+              "RelativeDocumentMoniker": "FormEWallet.vb",
+              "ToolTip": "C:\\Users\\aivah\\Desktop\\flight\\FormEWallet.vb [Design]",
+              "RelativeToolTip": "FormEWallet.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T12:56:27.276Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
